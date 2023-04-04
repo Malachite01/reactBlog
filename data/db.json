@@ -1,28 +1,22 @@
 {
-  "blogs" : [
-    { 
-      "title": "My new website", 
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore eum odio veritatis, quod odit aspernatur facilis facere? Voluptates omnis adipisci dolores? Ut laudantium illo eaque, porro earum eveniet voluptatem atque!", 
-      "author": "michel", 
-      "id": 1 
-    },
-    { 
-      "title": "Welcome party!", 
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore eum odio veritatis, quod odit aspernatur facilis facere? Voluptates omnis adipisci dolores? Ut laudantium illo eaque, porro earum eveniet voluptatem atque!", 
-      "author": "titi", 
-      "id": 2 
-    },
-    { 
-      "title": "Web dev top tips", 
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore eum odio veritatis, quod odit aspernatur facilis facere? Voluptates omnis adipisci dolores? Ut laudantium illo eaque, porro earum eveniet voluptatem atque!", 
-      "author": "toto", 
-      "id": 3 
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore eum odio veritatis, quod odit aspernatur facilis facere? Voluptates omnis adipisci dolores? Ut laudantium illo eaque, porro earum eveniet voluptatem atque!",
+      "author": "michel",
+      "id": 1
     },
     {
-      "title": "My new website V2", 
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore eum odio veritatis, quod odit aspernatur facilis facere? Voluptates omnis adipisci dolores? Ut laudantium illo eaque, porro earum eveniet voluptatem atque!", 
-      "author": "michel", 
-      "id": 4 
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore eum odio veritatis, quod odit aspernatur facilis facere? Voluptates omnis adipisci dolores? Ut laudantium illo eaque, porro earum eveniet voluptatem atque!",
+      "author": "titi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore eum odio veritatis, quod odit aspernatur facilis facere? Voluptates omnis adipisci dolores? Ut laudantium illo eaque, porro earum eveniet voluptatem atque!",
+      "author": "toto",
+      "id": 3
     }
   ]
 }

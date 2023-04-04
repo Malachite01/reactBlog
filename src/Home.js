@@ -20,7 +20,7 @@ const Home = () => {
       {error && <div className="error">{error}</div>}
       {isLoading && !error && <div className="loadingWrapper"><img className="loadingGif" src={gifLoading} alt="chargement" width={100} /></div>}
       {articles && <BlogList articles={articles} titre="Tous les articles" handleDelete={handleDelete}/>}
-      {articles && <BlogList articles={articles.filter((article) => article.author === "michel")} titre="Posté par michel"/>}
+      {articles && <BlogList articles={articles.filter((article) => article.author === "Michel")} titre="Posté par michel" handleDelete={handleDelete}/>}
     </div>
   );
 }
